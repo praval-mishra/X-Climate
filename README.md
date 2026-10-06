@@ -91,4 +91,5 @@ streamlit run src/dashboard.py
 Python, Scikit-learn, SHAP, LIME, Streamlit, Pandas, Matplotlib
 
 ## Author
-[Your Name] | [Your College] | [Year]
+Praval Mishra | B.Tech CSE (Data Science), Swami Vivekananda Institute of Technology | 3rd
+
